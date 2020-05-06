@@ -1,9 +1,0 @@
-hostname = *.musical.ly, *.tiktokv.com, *.byteoversea.com, *.snssdk.com
-
-
-# url-rewrite
-# TikTok unlock
-
-(?<=_region=)CN(?=&) url 307 JP
-(?<=&app_version=)14..(?=.?.?&) url 307 1
-(?<=\?version_code=)14..(?=.?.?&) url 307 1 
