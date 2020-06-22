@@ -95,7 +95,7 @@ var shareCodes = [ // 这个列表填入你要助力的好友的shareCode, 最�
     'MTAxODc2NTE0NzAwMDAwMDAyODMwNDc1MQ==',
     'MTAxODc2NTEzMjAwMDAwMDAxOTI3OTkwOQ==',
     'MTAxODc2NTEzMzAwMDAwMDAxNjA4Njc5OQ==',
-    '555=='
+    'MTAxODc2NTEzMjAwMDAwMDAyMDI5NzE1NQ=='
 ]
 
 var petInfo = null;
