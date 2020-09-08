@@ -57,7 +57,8 @@ var md_bd=$request.body;
 var tt=jinritoutiao;
 
 
-if(urlval.indexOf("score_task/v1/sleep/done_task")>=0)
+#if(urlval.indexOf("score_task/v1/sleep/done_task")>=0)
+if(urlval.indexOf("score_task/v1/user/info")>=0)
 {
  
 var jrtt_sleepurlck=urlval.substring(urlval.indexOf("done_task/")+10,urlval.length);
