@@ -10,7 +10,7 @@
 
 * [Js.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Js.conf) 脚本远程订阅
 
-* [Get_Cookie_Remote.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [Cookies.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
 
 
 ### 特别感谢：
